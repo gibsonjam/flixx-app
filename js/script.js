@@ -52,6 +52,7 @@ function init() {
   }
 
   highlightActiveLink();
+  displayPopularMovies();
 }
 
 document.addEventListener('DOMContentLoaded', init);
